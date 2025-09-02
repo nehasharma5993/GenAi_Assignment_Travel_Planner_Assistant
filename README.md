@@ -1,1 +1,1 @@
-# GenAi_Assignment_Travel_Planner_Assistant
+# Travel_Planner_AI_Assistant
